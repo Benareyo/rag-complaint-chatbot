@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+scikit-learn
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+chromadb
+gradio
+python-dotenv
+tqdm
+requests
